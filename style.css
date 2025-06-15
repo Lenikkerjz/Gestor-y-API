@@ -1,0 +1,44 @@
+.body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;;
+}
+
+h1{
+    text-align: center;
+
+} 
+.cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    padding: 200px;
+    justify-content:space-between;
+    text-align: center;
+}
+
+.cards-container > div img {
+    border-radius: 1200px;
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px auto;
+}
+.card > style.backgroundColor{
+    border-radius: 1200px;
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px auto;
+}
+
+.page-2{
+    text-align: center;
+    font-size: 26px;
+}
+
+.page-2 a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
